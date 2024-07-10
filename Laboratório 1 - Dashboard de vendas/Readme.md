@@ -13,3 +13,7 @@ Por fim, o Dashboard possibilita ao usuário filtrar os dados por:
 - Ano, 
 - Segmento e 
 - País.
+
+Exemplo a seguir: 
+
+![Dashboard de Vendas](https://github.com/Douglas08Santos/Dashboards-PowerBI/blob/main/Laborat%C3%B3rio%201%20-%20Dashboard%20de%20vendas/Lab1.png)
