@@ -10,3 +10,5 @@ O dashboard de vendas, custos, margem de lucro e KPI apresenta as seguintes info
 Por fim, o Dashboard possibilita ao usuário filtrar os dados por data
 
 Exemplo a seguir: 
+
+![Dashboard de Margem de Lucro](https://github.com/Douglas08Santos/Dashboards-PowerBI/blob/main/Laborat%C3%B3rio%202%20-%20Dashboard%20de%20Vendas%2C%20Custos%2C%20Margem%20de%20Lucro%20e%20KPI/Lab2.png)
